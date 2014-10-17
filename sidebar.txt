@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[xis:home|Door43 (xis)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-xis|d43-xis repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-xis/archive/master.zip|d43-xis.zip]]
+
+**Recent Changes**
+{{changes>ns = xis}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/xis|Ethnologue data]]
+
